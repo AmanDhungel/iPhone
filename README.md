@@ -77,6 +77,11 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm i
   ```
+  ```sh
+  npm run dev
+  ```
+
+  Now You can see your site in localhost Enjoy!!!
 
 
 <!-- CONTACT -->
